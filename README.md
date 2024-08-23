@@ -35,6 +35,8 @@ This project is a Face Mask Detection system that uses deep learning techniques 
 - **imutils**
 - **scikit-learn**
 
+## Link to Dataset: https://www.kaggle.com/datasets/hope2917/face-mask
+
 ## Libraries and Dependencies
 
 ### Core Libraries
