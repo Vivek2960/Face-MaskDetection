@@ -35,8 +35,6 @@ This project is a Face Mask Detection system that uses deep learning techniques 
 - **imutils**
 - **scikit-learn**
 
-### Python Packages
-
 ## Libraries and Dependencies
 
 ### Core Libraries
