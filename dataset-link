@@ -1,0 +1,6 @@
+## Dataset
+
+The dataset used in this project is too large to be stored directly in this repository. You can download it from the following link:
+
+[Download Dataset from Kaggle](https://www.kaggle.com/datasets/hope2917/face-mask)
+Command API: kaggle datasets download -d hope2917/face-mask)
